@@ -15,6 +15,7 @@ Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
 </p>
 
 ## Highlights (2025)
+- **NH-RootMaker** - 청년 청약 통장 활성화를 위한 컨설팅, 개인화서비스 / PM, FE (진행중) 
 - **Do,It** — 소아비만 예방 앱(가족 소통/기록/가이드) / 기획, 디자인 PL/SW창업경진대회 3위
 - **Mummzhit** — 디지털 과의존 예방 앱(습관 형성 과정 팔로우) / 기획,프론트엔드 개발 참여 FE
 - **BoH[]** — 청소년 메신저 위험 신호 탐지 MVP / 기획 PM / 인텔 X 한국생산성본부 AI 기획자 양성과정 - AI 사업 제안 1위
