@@ -23,7 +23,7 @@ Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
 
 ## Stats
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DoggiKim&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoggiKim&layout=compact&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mnseokim&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnseokim&layout=compact&hide_title=true" />
 </p>
 
