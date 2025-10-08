@@ -9,17 +9,20 @@ Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=222">
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
 </p>
 
 ## Highlights (2025)
-- **NH-RootMaker** - 청년 청약 통장 활성화를 위한 컨설팅, 개인화서비스 / PM, FE (진행중) 
-- **Do,It** — 소아비만 예방 앱(가족 소통/기록/가이드) / 기획, 디자인 PL/SW창업경진대회 3위
-- **Mummzhit** — 디지털 과의존 예방 앱(습관 형성 과정 팔로우) / 기획,프론트엔드 개발 참여 FE
+- **NH-RootMaker** - 청년 청약 통장 활성화를 위한 컨설팅, 개인화서비스 / PM, FE (진행중)
+- **ESPERO Fall Festival** - 한양대학교 ERICA 가을 축제 공식 웹앱 서비스 / FE(운세, 주점)
+- **메디메이트** - 외국인 이주민을 위한 의료 지원 서비스 / FE(사전문진, 병원 예약 플로우), BM 설계 / 멋사대학 13기 해커톤 3위
 - **BoH[]** — 청소년 메신저 위험 신호 탐지 MVP / 기획 PM / 인텔 X 한국생산성본부 AI 기획자 양성과정 - AI 사업 제안 1위
-- **메디메이트** - 외국인 이주민을 위한 의료 지원 서비스 / FE(사전문진, 병원 예약 플로우), BM 설계 / 멋사대학 13기 해커톤 - 3위
+- **Do,It** — 소아비만 예방 앱(가족 소통/기록/가이드) / 기획, 디자인 PL/ SW창업메이커톤 장려상
+- **Mummzhit** — 디지털 과의존 예방 앱(습관 형성 과정 팔로우) / 기획,프론트엔드 개발 참여 FE
+
 
 ## Stats
 <p>
