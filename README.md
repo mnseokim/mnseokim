@@ -16,6 +16,7 @@ Hanyang Univ. ERICA · **Media + Computer Engineering** (double major)
 </p>
 
 ## Highlights (2025)
+- **DeVTI** - IT 프로젝트 전용 팀매칭 웹앱 /FE(PL) (2025.10 ~)
 - **NH-RootMaker** - 청년 청약 통장 활성화를 위한 컨설팅, 개인화서비스 / PM, FE (진행중)
 - **ESPERO Fall Festival** - 한양대학교 ERICA 가을 축제 공식 웹앱 서비스 / FE(운세, 주점)
 - **메디메이트** - 외국인 이주민을 위한 의료 지원 서비스 / FE(사전문진, 병원 예약 플로우), BM 설계 / 멋사대학 13기 해커톤 3위
